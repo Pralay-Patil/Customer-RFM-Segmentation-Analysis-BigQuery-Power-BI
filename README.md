@@ -53,3 +53,6 @@ Opportunity: 92 customers are in the "Promising" or "Potential Loyalist" categor
 
 💡 Professional Takeaway
 The "Modern Data Stack" approach used here (SQL + Cloud + BI) is designed for production environments. By decoupling the Data Transformation (SQL) from the Data Visualization (Power BI), the logic is traceable, auditable, and easily shared across a data team.
+
+
+<img width="1309" height="736" alt="Screenshot 2026-03-30 110732" src="https://github.com/user-attachments/assets/0741fc19-fde3-4307-871f-075a4341ab63" />
