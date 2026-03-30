@@ -1,0 +1,26 @@
+# --- Power BI ---
+# Ignore temporary and recovery files created by Power BI Desktop
+*.pbi
+*.temp
+*.zip
+*.log
+
+# --- Python / Data Science ---
+# Ignore virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# --- Data Files ---
+# Ignore raw data files if they are too large for GitHub (>50MB)
+# (Uncomment the line below if you want to keep data folder local)
+# data/
+
+# --- System Files ---
+# Windows and Mac metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
